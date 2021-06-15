@@ -7,3 +7,5 @@ This was my first work on 3d modelization and also with stars coordinates... hen
 There are many possible improvments to this notebook: to write a function creating coordinates based on star names, to accept declination and right ascension as the measures of stars locations, to improve the visualization features (zoom, dynamic names display, link the stars of the constellation), to improve the background (nicer 'sky'), etc.
 
 I will probably come back to it after finishing another SciFy book :)
+
+(3D visualization is not activated in github, I added pictures of the two constellations taken for illustration!)
