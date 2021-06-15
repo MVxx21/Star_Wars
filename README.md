@@ -4,6 +4,6 @@ This project was initially part of the Code Academy projects library, under the 
 
 This was my first work on 3d modelization and also with stars coordinates... hence the "wars" in the project name! I did not expect to see constellations so differently from what I can observe from my window.
 
-There are many possible improvments to this notebook: to write a function creating coordinates based on star names, to accept declination and right ascension as the measures of stars locations, to improve the visualization features (zoom, dynamic names display, linked between the stars to illustrate the constellation), to improve the background (nicer 'sky'), etc.
+There are many possible improvments to this notebook: to write a function creating coordinates based on star names, to accept declination and right ascension as the measures of stars locations, to improve the visualization features (zoom, dynamic names display, link the stars of the constellation), to improve the background (nicer 'sky'), etc.
 
 I will probably come back to it after finishing another SciFy book :)
