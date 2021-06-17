@@ -8,4 +8,9 @@ There are many possible improvments to this notebook: to write a function creati
 
 I will probably come back to it after finishing another SciFy book :)
 
-(3D visualization is not activated in github, I added pictures of the two constellations taken for illustration!)
+(3D rotation is not activated in github, I added pictures of the two constellations taken for illustration!)
+
+<p align="center">
+  <img src="https://github.com/MVxx21/Star_Wars/blob/1c1d9e2a930e0b74ce8efeb851285a7b80a2fc03/Orion_view1.PNG" width="400" title="Orion_view1">
+  <img src="https://github.com/MVxx21/Star_Wars/blob/1c1d9e2a930e0b74ce8efeb851285a7b80a2fc03/Orion_view3.PNG" width="400" alt="Orion_view3">
+</p>
